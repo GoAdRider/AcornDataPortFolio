@@ -1,6 +1,6 @@
 # AcornDataPortFolio
 
-[![산림교육인증프로그램분석](https://user-images.githubusercontent.com/57707484/134691737-5eea5ca5-8744-4a17-946f-1b58ed744735.png)](./빅데이터-프로젝트_최종.pdf)
+[![산림교육인증프로그램분석](https://user-images.githubusercontent.com/57707484/134691737-5eea5ca5-8744-4a17-946f-1b58ed744735.png)](./빅데이터 프로젝트_최종.pdf)
 
 
 ## 주제 : 산림교육 인증 프로그램에 관한 분석 및 시각화
