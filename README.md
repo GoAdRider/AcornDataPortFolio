@@ -34,6 +34,8 @@
 <details>
   <summary>공모전 진행 스토리보기</summary>
   
+  > 공모전 진행은 스터디 2회차부터 진행했기에 2회차부터 올림
+  
   [공모전스터디 1회차](https://velog.io/@osk3856/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%8A%A4%ED%84%B0%EB%94%94-2-%ED%9A%8C%EC%B0%A8)
   
   [공모전스터디 2회차](https://velog.io/@osk3856/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%8A%A4%ED%84%B0%EB%94%94-3-%ED%9A%8C%EC%B0%A8)
