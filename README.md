@@ -32,6 +32,26 @@
 <br/>
 
 <details>
+  <summary>공모전 진행 스토리보기</summary>
+  
+  [공모전스터디 1회차](https://velog.io/@osk3856/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%8A%A4%ED%84%B0%EB%94%94-2-%ED%9A%8C%EC%B0%A8)
+  
+  [공모전스터디 2회차](https://velog.io/@osk3856/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%8A%A4%ED%84%B0%EB%94%94-3-%ED%9A%8C%EC%B0%A8)
+  
+  [공모전스터디 3회차](https://velog.io/@osk3856/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%8A%A4%ED%84%B0%EB%94%94-4-%ED%9A%8C%EC%B0%A8)
+  
+  [공모전스터디 4회차](https://velog.io/@osk3856/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%8A%A4%ED%84%B0%EB%94%94-5-%ED%9A%8C%EC%B0%A8)
+  
+  [공모전스터디 5회차](https://velog.io/@osk3856/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%8A%A4%ED%84%B0%EB%94%94-6%ED%9A%8C%EC%B0%A8)
+  
+  [공모전스터디 마지막](https://velog.io/@osk3856/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%8A%A4%ED%84%B0%EB%94%94-%EB%A7%88%EC%A7%80%EB%A7%89)
+  
+  
+</details>
+
+<br/>
+
+<details>
   <summary>시각화 Link</summary>
   
   [산림교육프로그램 시각화](https://public.tableau.com/app/profile/seongkeun/viz/_16323838050570/1_1?publish=yes)
